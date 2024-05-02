@@ -1,5 +1,6 @@
 # swoole-chat
 
+Test Script
 -----------------------------------------------------------------------------------------------------------------
 curl -fsSL https://get.docker.com/ | sh
 
@@ -16,3 +17,6 @@ docker run -d --name=web3chat --restart=unless-stopped --net=host --privileged=t
 docker ps -a
 
 -----------------------------------------------------------------------------------------------------------------
+
+bandwagonHOST low price today:
+https://bandwagonhost.com/aff.php?aff=70462
