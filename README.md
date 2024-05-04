@@ -25,3 +25,7 @@ docker ps -a
 
 bandwagonHOST low price today:
 https://bandwagonhost.com/aff.php?aff=70462
+
+EVM event:
+
+event BuyProduct(address indexed user, uint256 value); 
