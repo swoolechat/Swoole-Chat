@@ -37,4 +37,4 @@ EVM event:
 event BuyProduct(address indexed user, uint256 value);
 
 Moralis Steam Notify URL:
-<ServerURL>/api/moralis/push
+YourServerURL/api/moralis/push
