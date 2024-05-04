@@ -34,8 +34,10 @@ click to get bandwagon host:
 
 [![](https://imagedelivery.net/e5TaAKBAfEJSLfTfmJBB0A/1ea64fca-a4aa-4e24-e06d-3b1101a84200/avata)](https://https://bandwagonhost.com/aff.php?aff=70462)
 
-solidity event sample:
+Solidity Event Sample:
+
 event BuyProduct(address indexed user, uint256 value);
 
-Moralis Steam Notify URL:
+Moralis Stream Notify URL:
+
 YourServerURL/api/moralis/push
