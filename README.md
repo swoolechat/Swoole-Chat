@@ -32,7 +32,11 @@ docker ps -a
 
 click to get bandwagon host:
 
-[![](https://imagedelivery.net/e5TaAKBAfEJSLfTfmJBB0A/1ea64fca-a4aa-4e24-e06d-3b1101a84200/avata)](https://https://bandwagonhost.com/aff.php?aff=70462)
+[![](https://imagedelivery.net/e5TaAKBAfEJSLfTfmJBB0A/1ea64fca-a4aa-4e24-e06d-3b1101a84200/avata)](https://bandwagonhost.com/aff.php?aff=70462)
+
+click to get justmysocks:
+
+[![](https://imagedelivery.net/e5TaAKBAfEJSLfTfmJBB0A/f4463804-b34e-422a-af79-dc73735ea300/cover)](https://justmysocks.net/members/aff.php?aff=26169)
 
 Solidity Event Sample:
 
@@ -41,3 +45,4 @@ event BuyProduct(address indexed user, uint256 value);
 Moralis Stream Notify URL:
 
 YourServerURL/api/moralis/push
+
